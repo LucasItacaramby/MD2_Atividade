@@ -9,7 +9,7 @@ O código foi desenvolvido em C e pode ser compilado utilizando o gcc
 
 ```bash
 # Para compilar o programa das questões
-gcc -w -o programa.exe Qi.c
+gcc -o programa.exe Qi.c
 
 # Para executar
 ./programa.exe
